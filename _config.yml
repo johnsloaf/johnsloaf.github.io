@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: john's loaf
+email: j@johnsloaf.github.io
+description: > # this means to ignore newlines until "baseurl:"
+  This site is the loaf of my life. It takes time to rise, 
+  then it gets squashed, then it rises again. Then it gets
+  baked and grows a hard shell. Then it is soft and warm.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+twitter_username: talkingjohn
+github_username: johnsloaf
+tagline: "Where the bread bakes"
+
+# Build settings
+markdown: kramdown
